@@ -1,0 +1,11 @@
+{
+  "name": "labo_run_server",
+  "version": "1.0.0",
+  "description": "the back end for the labo run project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "john Mogi",
+  "license": "ISC"
+}
